@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>first day in accion</title>
+    <style>
+    	#container {
+    		width: 960px;
+    	}
+    </style>
+</head>
+
+<body>
+    <div id="container">
+
+        <div id="row1">
+        </div>
+
+        <div id="row2">
+            <div class="column1">
+            </div>
+
+            <div class="column2">
+            </div>
+
+            <div class="column3">
+            </div>
+
+            <div class="column4">
+            </div>
+
+            <div class="column5">
+            </div>
+        </div>
+
+        <div id="row3">
+        </div>
+
+        <div id="row4">
+            <div class="column1">
+            </div>
+
+            <div class="column2">
+            </div>
+
+            <div class="column3">
+            </div>
+
+            <div class="column4">
+            </div>
+
+            <div class="column5">
+            </div>
+        </div>
+
+        <div id="row5">
+        </div>
+
+        <div id="row6">
+            <div class="column1">
+            </div>
+
+            <div class="column2">
+            </div>
+
+            <div class="column3">
+            </div>
+        </div>
+
+        <div id="row7">
+        </div>
+
+        <div id="row8">
+            <div class="column1">
+            </div>
+
+            <div class="column2">
+            </div>
+
+            <div class="column3">
+            </div>
+        </div>
+
+        <div id="row9">
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
