@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p> click here</p>
+<button onclick="showlocation()">click</button>
+
+<script>
+function showlocation(){
+
+if(navigator.geolocation)
+{
+navigator.geolocation.getcurrentposition(showposition)
+}
+else
+{
+alert("");
+
+
+}
+function showposition (position)
+{
+alert("latitude"+position.coords.latitude+"longitude"+position.coords.longitude);
+}
+
+</script>
+
+</body>
+</html>
